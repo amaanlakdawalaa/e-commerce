@@ -122,7 +122,7 @@ body{
   margin-left: 152px;
   font-size: 19px;
   border: none;
-  background-image: url('images/button_background.png');
+  background-image: url('button_background.png');
   background-repeat: no-repeat;
   background-color: transparent;
   margin-left: 45px;
@@ -312,7 +312,7 @@ body{
 
                                                  /* BANNER 1*/
   #banner_1{
-    background-image: url('images/banner1.png');
+    background-image: url('banner1.png');
     height: 75vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -348,7 +348,7 @@ body{
 position: relative;
 }
 .banner1 {
-  background-image: url('images/banner4.svg');
+  background-image: url('banner4.svg');
   /* display: flex; */
   /* flex-direction: column; */
   /* justify-content: center;
@@ -370,7 +370,7 @@ position: relative;
 
 }
 .banner23{
-  background-image: url('images/banner3.png');
+  background-image: url('banner3.png');
   /* display: flex;
   flex-direction: column;
   justify-content: center;
@@ -427,7 +427,7 @@ position: relative;
 }
 
 .banner_box{
-  background-image: url('images/banner5.svg');
+  background-image: url('banner5.svg');
   height: 40vh;
   min-width: 30%;
   background-size: cover;
